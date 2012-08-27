@@ -1,0 +1,35 @@
+Rule 869/33 (Power=2)
+How to Join and Leave Agora
+
+      Citizenship is an entity switch with values Unregistered
+      (default) and Registered, tracked by the registrar.  A player is
+      an entity whose citizenship is Registered.  Changes to
+      citizenship are secured.
+
+      The verb "to be registered" means to become a player (i.e., to
+      have one's citizenship changed from Unregistered to Registered),
+      and the verb "to be deregistered" means to cease to be a player
+      (i.e., to have one's citizenship changed from Registered to
+      Unregistered).  Where the verb "to register" or "to deregister"
+      is used without an explicit direct object, the action is
+      implicitly reflexive.
+
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player at that time.
+
+      A second-class person CAN register with Agoran Consent.
+
+      A non-person CANNOT be registered (or created in a Registered
+      state), rules to the contrary notwithstanding.
+
+      A player CAN deregister by announcement.  A person CANNOT
+      register within thirty days after being deregistered, unless
+      rules define the method of deregistration as passive.
+
+      A player who is not a person and has never been a first-class
+      person CAN be deregistered by any player by announcement.
+
+      Initiating a frivolous judicial case on the success or failure
+      of a registration attempt is the Class-3 crime of Hazing.

@@ -1,0 +1,20 @@
+Rule 991/12 (Power=2)
+Judicial Cases Generally
+
+      A judicial case, also known as a call for judgement (CFJ), is a
+      procedure to settle a matter of controversy.
+
+      Each judicial case has exactly one subclass, with particular
+      features as defined by other rules.  Subclasses of judicial case
+      exist only as defined by the rules.  Defining a subclass of
+      judicial case is secured, with a power threshold of 1.7.  A
+      judicial case's subclass CAN be specified by its initiator, or
+      otherwise defaults to inquiry.
+
+      The Clerk of the Courts (CotC) is an office, responsible for
+      managing judicial activity.  The CotC's report includes the
+      status of all judicial cases without a judgement.
+
+      Judicial cases (other than appeal cases, which have historically
+      been identified by reference to the prior case) have ID numbers,
+      to be assigned by the Clerk of the Courts.

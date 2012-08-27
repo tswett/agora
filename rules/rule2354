@@ -1,0 +1,18 @@
+Rule 2354/0 (Power=1)
+Costs
+
+      The documents defining the conditions for performing an action
+      can specify another action as a cost; paying the cost becomes a
+      condition for performing the original action.  A person has paid
+      the cost for an attempt to perform an action if e performed each
+      action so defined as a cost:
+
+      (1) in the same message as the attempt,
+      (2) clearly indicating that the action was a payment of that
+          cost for that attempt, and
+      (3) not indicating that it was a payment for any other cost or
+          attempt.
+
+      If the cost is defined in assets, the required action is
+      destroying those assets, or, if the documents specify a
+      recipient entity, transferring them to that entity.

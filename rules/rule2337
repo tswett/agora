@@ -1,0 +1,25 @@
+Rule 2337/4 (Power=3)
+Promises
+
+      Promises are a class of assets.  Horton is an Office and the
+      recordkeepor for promises; Horton's weekly report includes the
+      text, author, conditions, and owner of all existing promises.
+      The Tree is an entity for holding promises.  Ownership of
+      promises is limited to persons, judicial panels, and the Tree.
+
+      A Player (the promise's author) CAN create a promise in eir
+      possession by announcement, clearly specifying its text.
+      Optionally, the author CAN, in the creating message, specify one
+      or more conditions required to be true for the promise to be
+      cashed, and/or one or more conditions required to be true for
+      the promise not to be destroyed when cashed.
+
+      To submit a promise means to create that promise and then
+      transfer it to the Tree.
+
+      Promises with the same text, author, and conditions are
+      fungible.
+
+      Creating and cashing promises is secured with power threshold 3;
+      any other modifications to promise holdings are secured with
+      power threshold 2.

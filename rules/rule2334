@@ -1,0 +1,16 @@
+Rule 2334/0 (Power=2)
+Timers
+
+      A timer is a switch whose values are the non-negative integers
+      (default zero), representing a number of seconds.  Timer values
+      and changes can be expressed in terms of larger durations (e.g.
+      "1 day" is equivalent to "86400 seconds").
+
+      Each timer is either counting down or not counting down.  When a
+      timer has been continuously counting down for 1 second since its
+      last change, it decreases by 1.
+
+      When reporting a timer value, it is sufficient to provide enough
+      information that its value at the time of the report can be
+      calculated with reasonable effort (e.g. "<value> as of <date>
+      00:00:00 UTC and has been counting down since then").

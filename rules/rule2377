@@ -1,0 +1,9 @@
+Rule 2377/0 (Power=2)
+Aerocratic Chamber
+
+      Aerocratic is a Voting Chamber. The voting limit of an entity on
+      an Aerocratic Decision is:
+      *If that entity is the Captain, 5
+      *otherwise, if that entity is a Pilot, 3
+      *otherwise, if that entity is not a Marine, 1
+      *otherwise, 0

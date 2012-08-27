@@ -1,0 +1,26 @@
+Rule 2158/10 (Power=2)
+Judges
+
+      At any time, each judicial case is either open (default),
+      suspended, or has exactly one judgement.  This is a persistent
+      status that changes only according to the rules.  The possible
+      types of judgement for a judicial case depend on the type of
+      case.
+
+      When a judicial case is open and has a judge assigned to it, the
+      judge CAN assign a valid judgement to it by announcement, and
+      SHALL do so as soon as possible, unless e is recused from the
+      case before the time limit for doing so has expired.  A judge
+      SHOULD NOT assign an inappropriate judgement to any judicial
+      case.  A judgement is valid and/or appropriate only as defined
+      by the rules.  Defining these things is secured, with a power
+      threshold of 1.7.  If more than one judgement is valid and
+      appropriate, then the choice between them is left to the judge's
+      discretion.
+
+      When a non-appeal judicial case is open, and its judge has
+      violated a time limit to assign a judgement to it, or is not an
+      active player, the Clerk of the Courts SHALL recuse that judge
+      with cause by announcement as soon as possible; however, this
+      requirement is waived if the judge assigns a judgement to it
+      first.

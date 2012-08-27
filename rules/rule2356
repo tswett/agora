@@ -1,0 +1,14 @@
+Rule 2356/1 (Power=1)
+Naughtiness
+
+      The Police Vigilance Number (PVN) is an integer tracked by the
+      CotC.  Virtue is a person switch tracked by the CotC, with
+      values Virtuous (default) and Unvirtuous.
+
+      A person CAN taunt the police by announcement specifying an
+      integer from 1 to 14 inclusive. Doing so makes that person
+      Unvirtuous and increases the PVN by N, and is the Class-N Crime
+      of Naughtiness, where N is the specified integer.
+
+      When the PVN comes to exceed 50, all Virtuous players satisfy
+      the Victory Condition of Clean Nose.

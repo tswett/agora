@@ -1,0 +1,7 @@
+Rule 879/27 (Power=2)
+Quorum
+
+      Quorum for an Agoran decision is N/3 (where N is the number of
+      eligible voters with a positive voting limit on that decision),
+      rounded up, with a minimum of five (unless this is greater than
+      N, in which case quorum is N).

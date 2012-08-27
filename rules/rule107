@@ -1,0 +1,36 @@
+Rule 107/15 (Power=3)
+Initiating Agoran Decisions
+
+      An Agoran decision is initiated when a person authorized to
+      initiate it publishes a valid notice which sets forth the intent
+      to initiate the decision.  This notice is invalid if it lacks
+      any of the following information, and the lack is correctly
+      identified within one week after the notice is published:
+
+      (a) The matter to be decided (for example, "the adoption of
+          proposal 4781").
+
+      (b) A description of the class of eligible voters sufficient to
+          enable public agreement on which persons are eligible.  In
+          particular, an explicit list of the eligible voters is
+          always sufficient for this purpose.
+
+      (c) A clear indication of the options available.
+
+      (d) The identity of the vote collector.
+
+      (e) Any additional information defined by the rules as essential
+          parameters.
+
+      The publication of such a valid notice initiates the voting
+      period for the decision. Where {X, Y} is a given Speed followed
+      by a number of days, the voting period lasts for Y days when the
+      Speed is X at the time of initiation: {Slow, 14}, {Normal, 7},
+      {Fast, 5}. The minimum voting period for a decision with at
+      least two options is five days.  The vote collector for a
+      decision with less than two options CAN and SHALL end the voting
+      period by announcement, if it has not ended already, and
+      provided that e resolves the decision in the same message.
+
+      The voting period for a decision cannot be set or changed to a
+      duration longer than fourteen days.

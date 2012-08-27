@@ -1,0 +1,39 @@
+Rule 1868/18 (Power=2)
+Judge Assignment Generally
+
+      At any time, a judicial case either has no judge assigned to it
+      (default) or has exactly one entity assigned to it as judge.
+      This is a persistent status that changes only according to the
+      rules.
+
+      When a judicial case is open and has no judge assigned, the CotC
+      CAN assign a qualified entity to be its judge by announcement,
+      and SHALL do so as soon as possible.
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active first-class players who have not previously
+      been assigned as its judge, subject to modification by other
+      rules.  Being unqualified to be assigned as a judge does not
+      inherently prevent an entity from continuing to be judge of a
+      case to which e is already assigned.  Rules to the contrary
+      notwithstanding, entities other than first-class players are
+      always unqualified to judge.
+
+      When a player is poorly qualified to be assigned as judge of a
+      judicial case, the Clerk of the Courts SHALL not assign em to be
+      the judge of that case; if e has done so, and that player is
+      still the judge of that case, then e CAN recuse that judge from
+      that case by announcement.
+
+      Making an entity unqualified or poorly qualified to judge is
+      secured, with a power threshold of 1.5.
+
+      To recuse a judge from a case is to deassign em as its judge.
+      Assigning a judge to a case implicitly recuses its existing
+      judge, if any.  A recusal "with cause" is a recusal defined as
+      such by the rules.
+
+      A player CAN favor or disfavor a judicial case by announcement.
+      When assigning a judge to a judicial case, the CotC, if
+      possible, SHALL assign a player who has favored it and SHALL NOT
+      assign a player who has disfavored it.

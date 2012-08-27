@@ -1,0 +1,9 @@
+Rule 2367/0 (Power=3)
+Messy Statements
+
+      A statement is messy if its truth value cannot be evaluated in a
+      top-down fashion without encountering some form of infinite
+      regress, such as (but not limited to) self-reference.
+
+      For the purposes of the rules, messy statements are considered
+      inaccurate and incorrect regardless of their truth value.

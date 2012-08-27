@@ -1,0 +1,34 @@
+Rule 683/17 (Power=3)
+Voting on Agoran Decisions
+
+      An eligible voter on a particular Agoran decision submits a
+      ballot to the vote collector by publishing a valid notice
+      indicating which one of the available options e selects.  To be
+      valid, the ballot must satisfy the following conditions:
+
+      (a) The ballot is submitted during the voting period for the
+          decision, and the submitter is an eligible voter at the
+          time of submission.
+
+      (b) The ballot clearly identifies the matter to be decided.
+
+      (c) The ballot clearly identifies the option selected by the
+          voter.
+
+      (d) The voter has not publicly retracted the ballot during the
+          voting period.  ("Changing" a vote is equivalent to
+          retracting it and casting a vote with the new value.)
+
+      Among the otherwise-valid votes on an Agoran decision, only the
+      first N submitted by each entity are valid, where N is the
+      entity's voting limit on that decision.  The voting limit of an
+      entity that is not an eligible voter on an Agoran decision is
+      zero.  The voting limit of an eligible voter on an Agoran
+      decision is two, except where rules say otherwise.
+
+      The strength of an option is the number of valid ballots
+      selecting that option.
+
+      Other rules may place further constraints on the validity of
+      ballots.  This rule takes precedence over any rule that would
+      loosen the constraints specified by this rule.

@@ -1,0 +1,14 @@
+Rule 2378/0 (Power=1.5)
+The Justiciar
+
+      The Justiciar is an office; its holder is responsible for hot
+      and cold running justice.
+
+      Initial Posture is an Agora Nomic switch, tracked by the
+      Justiciar in eir monthly report, with the same values and
+      default value as Posture.  The Justiciar CAN flip Initial
+      Posture by announcement.  The default value of Posture is the
+      current value of Initial Posture.
+
+      If the Justiciar's Posture is neither Standing nor Sitting, then
+      it is flipped to Sitting.

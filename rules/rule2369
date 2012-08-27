@@ -1,0 +1,24 @@
+Rule 2369/2 (Power=1)
+Foreign Relations
+
+      Recognition is a foreign nomic switch, tracked by the
+      Ambassador-At-Large, with values Unknown (default), Protected,
+      Friendly, Neutral, Sanctioned, Hostile, and Abandoned. Players
+      SHOULD not violate the rules of Protected or Friendly nomics.
+
+      When a non-Unknown foreign nomic becomes a Protectorate, it's
+      recognition becomes Protected.  When a foreign nomic ceases to
+      be a Protectorate, its Recognition becomes Unknown. Any person
+      CAN flip an Unknown Protectorate's Recognition to Protected by
+      announcement.  A foreign nomic's Recognition CANNOT change to or
+      from Protected in any other way.
+
+      The Ambassador-At-Large CAN, with Agoran Consent, flip a foreign
+      nomic's Recognition to any value (subject to the above
+      restriction).  E SHALL inform that nomic of the change as soon
+      as possible.
+
+      Any Ambassador Extraordinary And Plenipotentiary to a foreign
+      nomic CAN by announcement flip its Recognition to any value
+      (subject to the above restriction).  E SHALL inform that nomic
+      of the change as soon as possible.

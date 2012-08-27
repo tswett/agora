@@ -1,0 +1,19 @@
+Rule 1586/8 (Power=2)
+Definition and Continuity of Entities
+
+      If multiple rules attempt to define an entity with the same
+      name, then they refer to the same entity.  A rule-defined
+      entity's name CANNOT be changed to be the same as another
+      rule-defined entity's name.
+
+      A rule referring to an entity by name refers to the entity that
+      had that name when the rule first came to include that
+      reference, even if the entity's name has since changed.
+
+      If the rules are amended such that they no longer define an
+      entity, then that entity and its attributes cease to exist.
+
+      If the rules are amended such that they define an entity both
+      before and after the amendment, but with different attributes,
+      then that entity and its attributes continue to exist to
+      whatever extent is possible under the new definitions.

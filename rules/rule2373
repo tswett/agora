@@ -1,0 +1,7 @@
+Rule 2373/0 (Power=3)
+Voting Chambers
+
+      Voting Chambers are a class of entity. Ordinary is a Voting
+      Chamber.  Democratic is a Voting Chamber. Creating a Voting
+      Chamber or making an entity a Voting Chamber is Secured with
+      power 2.

@@ -1,0 +1,79 @@
+Rule 911/47 (Power=1.7)
+Appeal Cases
+
+      Appeal cases are a subclass of judicial cases.  An appeal case's
+      purpose is to determine the appropriateness of a judgement that
+      has been assigned to a judicial case, and make remedy if the
+      judgement was poorly chosen.  The assignment of judgement being
+      questioned (appealed against, or appealed) is referred to as the
+      prior assignment; the word "prior" in this rule is used to refer
+      to the circumstances of the prior assignment.
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case within the past two weeks CAN be initiated by any player
+      with 2 support.  However, rules to the contrary notwithstanding,
+      an appeal CANNOT be initiated concerning an assignment caused by
+      a judgement in an appeal case, nor an assignment for which an
+      appeal has already been initiated.
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of three members, where each
+      of the members is qualified to be assigned as judge of the prior
+      case and none is the prior judge.  If possible, the CotC SHALL
+      assign a panel where each of the members is well qualified to be
+      assigned as judge of the prior case.
+
+      The valid judgements for an appeal case are of the form
+      "<action> with prejudice" or "<action> without prejudice".  Such
+      a judgement is generally appropriate if and only if
+      (1) the action is appropriate, and
+      (2) the judgement is with prejudice if and only if the prior
+          judge made an error in eir judgement which could have been
+          reasonably avoided, or generally inappropriately discharged
+          eir duties in the case.
+
+      The valid values of <action> and their associated effects are as
+      follows:
+
+      * AFFIRM, appropriate if the prior judgement was appropriate for
+        the prior case; the prior judgement is assigned to the prior
+        case again
+
+      * REMAND, appropriate if there is serious doubt about whether
+        the prior judgement was appropriate; the prior case is
+        rendered open again; the judge SHOULD assign this judgement if
+        the judge believes that the judge of the prior case will make
+        a better judgement if given a new opportunity
+
+      * REMIT, appropriate if there is serious doubt about whether the
+        prior judgement was appropriate, or if the prior judge
+        exhibited corruptive self-interest (material, with a specific
+        and obvious impact on eir judgement and arguments, and not
+        arising merely due to a difference of opinion or a wholly
+        incidental material benefit common among many players); the
+        judge of the prior case (if any) is recused, and the prior
+        case is rendered open again; the judge SHOULD assign this
+        judgement if the judge believes that the judge of the prior
+        case will not make a better judgement if given a new
+        opportunity
+
+      * OVERRULE with a valid replacement judgement for the prior
+        case, appropriate if the prior judgement was inappropriate in
+        the prior case and the replacement judgement is appropriate
+        for the prior case; the replacement judgement is assigned to
+        the prior case
+
+      The appropriateness of the prior judgement is measured at the
+      time it was assigned.
+
+      When an appeal case is initiated, the prior case is suspended,
+      and remains so until the appeal case is judged.
+
+      The judge of a previously-appealed case SHALL NOT assign the
+      same judgement to it without new reasoning that addresses the
+      serious doubt about its appropriateness.  Violating this
+      prohibition is the Class-2 Crime of Lazy Judging.
+
+      A person SHALL NOT appeal a judgement (except on a criminal
+      case) unless e reasonably believes that the judgement might be
+      inappropriate.

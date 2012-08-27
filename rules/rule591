@@ -1,0 +1,55 @@
+Rule 591/36 (Power=1.7)
+Inquiry Cases
+
+      Inquiry cases are a subclass of judicial cases.  An inquiry
+      case's purpose is to determine the veracity of a particular
+      statement.  Any first-class person CAN initiate an inquiry case
+      by announcement, specifying a block of text which SHOULD
+      represent a statement to be inquired into.  (Including a yes/no
+      question is equivalent to including a statement that the answer
+      to that question is yes, and for such a case, YES and NO are
+      synonymous with the judgements TRUE and FALSE respectively.)
+
+      The initiator is unqualified to be assigned as judge of the
+      case, and in the initiating announcement e CAN disqualify one
+      person from assignment as judge of the case.
+
+      The valid judgements for an inquiry case are as follows, based
+      on the truth or falsity of the statement at the time the inquiry
+      case was initiated:
+
+      * FALSE, appropriate if the statement was factually and
+        logically false
+
+      * TRUE, appropriate if the statement was factually and logically
+        true
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable or otherwise not capable of being accurately
+        described as either false or true
+
+      * IRRELEVANT, appropriate if the veracity of the statement is
+        not relevant to the game or is an overly hypothetical
+        extrapolation of the game or its rules to conditions that
+        don't actually exist, or if it can be trivially determined
+        from the outcome of another (possibly still undecided)
+        judicial case that was not itself judged IRRELEVANT
+
+      * UNDETERMINED, appropriate if the statement is nonsensical or
+        too vague, or if the information available to the judge is
+        insufficient to determine which of the FALSE, TRUE, and
+        UNDECIDABLE judgements is appropriate; however, uncertainty as
+        to how to interpret or apply the rules cannot constitute
+        insufficiency of information for this purpose
+
+      * MALFORMED, appropriate if the text identified by the initiator
+        as the statement cannot be parsed as a single statement in the
+        ordinary-language sense; however, a compound statement (e.g.
+        "X and Y", "X or Y") counts as a single statement
+
+      Players SHOULD take the judgement of the question in an inquiry
+      case, and the reasoning by which it was reached, into account
+      when attempting to determine what is possible and/or legal in
+      future play (including when making future judgements); but the
+      judgement does not directly affect the veracity of the
+      statement.

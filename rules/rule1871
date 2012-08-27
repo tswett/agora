@@ -1,0 +1,38 @@
+Rule 1871/29 (Power=1.5)
+The Standing Court
+
+      Posture is a player switch, tracked by the Clerk of the Courts,
+      with the following values:
+
+      * Standing.  Standing players are generally qualified to judge.
+
+      * Sitting.  Sitting players are poorly qualified to judge, but
+        will generally become qualified when the CotC rotates the
+        bench.
+
+      * Leaning.  Leaning players are poorly qualified to judge, but
+        are generally qualified to serve on appeal panels.
+
+      * Supine (default if the default would otherwise be undefined).
+        Supine players are unqualified to judge.
+
+      Changes to posture are secured.
+
+      A player CAN flip eir posture to any non-standing value by
+      announcement.
+
+      When the CotC assigns a player as judge, that player becomes
+      sitting.
+
+      The CotC CAN rotate the bench (change all sitting players to
+      standing) by announcement, but SHALL NOT do so unless, of the
+      judicial cases requiring assignment:
+
+       a) no entity is well-qualified to be assigned to any of them;
+
+       b) e immediately afterwards (in the same announcement) assigns
+          a judge to at least one of them.
+
+      When the CotC recuses a non-supine player with cause, e CAN flip
+      that player's posture to supine by announcement in a timely
+      fashion.

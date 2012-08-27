@@ -1,0 +1,29 @@
+Rule 1950/26 (Power=3)
+Decisions with Adoption Indices
+
+      Adoption index is a switch possessed by Agoran decisions and
+      proposals, whose value is either "none" (default) or an integral
+      multiple of 0.1 from 1.0 to 9.9.
+
+      Chamber is a switch possessed by Agoran decisions with adoption
+      indices and proposals, with values any Voting Chamber, by
+      default Ordinary.
+
+      Adoption index and Chamber are secured with a power threshold of
+      2.
+
+      An Agoran decision with an adoption index has the following
+      essential parameters:
+
+      a) Its adoption index.
+      b) Its author (and co-authors, if any).
+      c) Its Chamber.
+
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2
+      if the decision is Ordinary, or 3 otherwise.
+
+      For any Agoran decision with an adoption index, the available
+      options are FOR and AGAINST.

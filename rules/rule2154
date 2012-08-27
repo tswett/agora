@@ -1,0 +1,50 @@
+Rule 2154/34 (Power=2)
+Election Procedure
+
+      A player CAN initiate an election for a specified elected office
+      for which no election is already in progress
+
+       a) by announcement, if e is the IADoP, or the office is vacant
+          or assumed, or no election has been initiated for the office
+          within 90 days before the announcement;
+
+       b) with 4 Supporters, otherwise.
+
+      When an election is initiated, the current holder of the office
+      (if any) is initially considered to have been nominated and have
+      accepted.
+
+      During the first four days of the election (the nomination
+      period), any player CAN by announcement nominate one or more
+      active players.
+
+      As soon as possible after the nomination period ends, the IADoP
+      SHALL initiate an Agoran decision to determine the new
+      officeholder. For this decision:
+
+       1) The valid options are the active players (hereafter the
+          candidates) who, during the election,
+
+            a) received and accepted a nomination for the office
+               before the decision was initiated (self-nomination
+               constitutes acceptance), and
+
+            b) did not decline a nomination for the office.
+
+          The set of candidates can change after the decision is
+          initiated.
+
+       2) The eligible voters are the active first-class players.
+
+       3) Each eligible voter's voting limit is one.
+
+       4) If there are no valid options for the Decision, the IADoP
+          SHALL, in place of initiating the decision, announce this
+          fact, ending the election.  If there is exactly one valid
+          option for the Decision, the IADoP SHALL, in place of
+          initiating the Decision, announce the valid option (the
+          candidate), thus installing that candidate into the office
+          and ending the election.
+
+      Upon the resolution of this decision, its outcome (if a
+      candidate) is installed into the office, and the election ends.

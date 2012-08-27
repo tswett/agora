@@ -1,0 +1,30 @@
+Rule 1607/35 (Power=3)
+Distribution
+
+      The Promotor is an office; its holder is responsible for
+      receiving and distributing proposals.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the vote collector is the Assessor, the
+      adoption index and Chamber are initially the same as the
+      corresponding values from the proposal, and the text of the
+      proposal is an essential parameter.  Initiating such a decision
+      is known as distribution, and removes the proposal from the
+      Proposal Pool.
+
+      The Promotor CAN distribute a proposal which is in the Proposal
+      Pool at any time.  In a given Agoran week, the Promotor SHALL,
+      as part of eir weekly duties, distribute all proposals in the
+      Proposal Pool that were in the Pool at the beginning of that
+      week.
+
+      Distributed proposals have ID numbers, to be assigned by the
+      Promotor.
+
+      If there is a Proposal in the Pool that it would otherwise be
+      IMPOSSIBLE for any active player to distribute, then any player
+      CAN distribute that Proposal Without 3 Objections.
+
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool.  This portion of a public message purporting to
+      be a Promotor's report is self-ratifying.

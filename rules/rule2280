@@ -1,0 +1,7 @@
+Rule 2280/0 (Power=3)
+Implicit Votes
+
+      When an eligible voter on an Agoran decision attempts to cast
+      ballots without explicitly specifying the number of ballots to
+      be cast (e.g. "FOR" instead of "FOR*1" or "FOR*3"), e casts a
+      number of ballots equal to eir voting limit on that decision.

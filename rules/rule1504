@@ -1,0 +1,97 @@
+Rule 1504/58 (Power=2)
+Criminal Cases
+
+      Criminal cases are a subclass of judicial cases.  Any person can
+      initiate a criminal case by announcement, specifying:
+
+      (a) a person (the Accused),
+      (b) an action the Accused allegedly performed or failed to
+          perform, and
+      (c) a rule allegedly violated by that action/inaction.
+
+      The initiator and each member of the Accused's basis are
+      unqualified to be assigned as judge of the case.
+
+      The valid judgements for a criminal case are as follows:
+
+      * GUILTY with a valid sentence, appropriate if the judge finds,
+        beyond a reasonable doubt, that ALL of the following are true:
+       (a) the Accused breached the specified rule via the specified
+           act;
+       (b) the breach occurred within 30 days prior to the case being
+           initiated;
+       (c) judgement has not already been reached in another criminal
+           case with the same Accused, the same rule, and
+           substantially the same alleged act;
+       (d) the Accused should have reasonably believed that the
+           alleged act did violate the specified rule;
+       (e) the Accused could have reasonably avoided committing the
+           breach without committing a different breach of equal or
+           greater severity.
+
+      * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
+        delivering this verdict, the judge SHOULD indicate which of
+        the sub-requirements for a finding of guilty were not found to
+        be true beyond a reasonable doubt.
+
+      When a sentence has been assigned as part of a GUILTY judgement,
+      the Accused is known as the ninny, and the sentence is in
+      effect.
+
+      The valid sentences are:
+
+      * DISCHARGE, appropriate only in extraordinary circumstances, if
+        any available non-null punishment would be manifestly unjust.
+        Has no effect.
+
+      * APOLOGY with a set of up to ten prescribed words (the empty
+        set if none is explicitly specified), appropriate for rule
+        breaches of small consequence.  When in effect, the ninny
+        SHALL as soon as possible publish a formal apology of at least
+        200 words, including all the prescribed words, explaining eir
+        error, shame, remorse, and ardent desire for self-improvement.
+        Failure to do so is a Class-3 Crime of Failure to Apologize.
+
+      * FINE with an amount of one class of asset, appropriate for
+        rule breaches of small consequence.  An amount is only valid
+        if the currency's backing document binds the ninny (the Rules
+        are considered to bind all players) or the ninny has this
+        amount of the asset, and the backing document specifies a
+        maximum FINE amount, and the amount is no greater than the
+        maximum.  When in effect, the ninny SHALL, as soon as
+        possible, either destroy this amount of eir asset or transfer
+        it to the Lost and Found Department. The ninny is only obliged
+        to perform one destruction or transfer per case, even if
+        sentences of this type are assigned more than once or go into
+        effect more than once.
+
+      * COMMUNITY SERVICE with a set of up to five tasks (the
+        prescribed tasks) that the ninny CAN reasonably and legally
+        perform, appropriate for rule breaches of moderate consequence
+        if the severity of the rule breach is reasonably correlated
+        with the consequences of performing the tasks, and especially
+        if any other available non-null punishment would be either
+        unjust or insufficient.  The balance between compensatory and
+        punitive service is left to the judge's discretion.  While a
+        sentence of this type is in effect, the ninny SHALL perform
+        the prescribed tasks (as soon as possible, unless a different
+        time limit is specified).
+
+      * TIME OUT with a number of days between 7 and 21.  Stasis is a
+        player timer, tracked by the Registrar.  When a sentence of
+        TIME OUT goes into effect, the ninny becomes inactive, and eir
+        stasis timer increases by the specified amount; when it ceases
+        to be in effect, eir stasis timer is decreased by the
+        specified amount.  While a player is inactive, eir stasis
+        timer is counting down.  While a player's stasis timer is
+        positive, e CANNOT become active.
+
+      * EXILE, appropriate for rule breaches of the highest severity.
+        When a judgement of EXILE has been in effect continuously for
+        one week, the ninny is deregistered and CANNOT register for
+        two months after that time.  During this period, e is known as
+        a Fugitive.  Being a Fugitive is the Losing Condition of
+        Seeking Asylum.
+
+      Players SHOULD NOT create rules defining Crimes of a Class
+      greater than 14.

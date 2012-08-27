@@ -1,0 +1,28 @@
+Rule 208/9 (Power=3)
+Resolving Agoran decisions
+
+      The vote collector for an unresolved Agoran decision CAN resolve
+      it by announcement, indicating the option selected by Agora.  If
+      it was required to be initiated, then e SHALL resolve it as soon
+      as possible after the end of the voting period.  To be valid,
+      this announcement must satisfy the following conditions:
+
+      (a) It is published after the voting period has ended.
+
+      (b) It clearly identifies the matter to be resolved.
+
+      (c) It specifies the outcome, as described elsewhere, and, if
+          there was more than one valid option, provides a tally of
+          the voters' valid ballots on the various options.
+
+      Each Agoran decision has exactly one vote collector, defaulting
+      to the initiator of the decision.  If the vote collector is
+      defined by reference to a position (or, in the default case, if
+      the initiator was so defined), then the vote collector is the
+      current holder of that position.
+
+      This rule takes precedence over any rule that would provide
+      another mechanism by which an Agoran decision may be resolved.
+
+      In general, changes to the gamestate due to the outcome of an
+      Agoran decision take effect when the decision is resolved.

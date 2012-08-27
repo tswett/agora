@@ -1,0 +1,22 @@
+Rule 2276/3 (Power=2)
+Assumption of Vacant Offices
+
+      Assumption is an elected office switch, tracked by the IADoP
+      with values Postulated (default) and Assumed. Changes to
+      Assumption are secured.  An active first-class player can make
+      emself the holder of an elected office by announcement, provided
+      that the office is either vacant or Assumed.
+
+      Upon doing so, the office's Assumption is flipped to Assumed.
+
+      When the holder of an office ceases to be an active player, the
+      office's Assumption is flipped to Assumed.
+
+      When a person comes to hold an office, or would come to hold an
+      office if e did not hold it already, by a means other than the
+      one provided by this Rule, then the Assumption of that office is
+      flipped to Postulated.
+
+      If a player has held an Assumed office continuously since the
+      last time it was Postulated, e can flip its Assumption to
+      Postulated by announcement.

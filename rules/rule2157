@@ -1,0 +1,21 @@
+Rule 2157/6 (Power=1.7)
+Judicial Panels
+
+      A judicial panel is a structure whereby a group of two or more
+      persons (its members) act together for the purpose of judging
+      judicial cases.  A judicial panel's membership cannot change,
+      and if two panels have the same membership then they are the
+      same panel.  Judicial panels exist implicitly, without any
+      specific act of formation.
+
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous Support of the panel's other members.  By
+      this mechanism a judicial panel can act, in situations where the
+      rules state that an action is performed by sending a message.
+      The rules may specify other mechanisms by which the judicial
+      panel CAN act.
+
+      A judicial panel can incur obligations.  The members of a panel
+      SHALL act collectively to ensure that the panel satisfies all of
+      its obligations.

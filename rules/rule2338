@@ -1,0 +1,23 @@
+Rule 2338/2 (Power=3)
+Cashing Promises
+
+      An entity CAN cash a promise in eir possession by announcing
+      that e does so, provided either that all conditions required to
+      be true for the promise to be cashed are true, or it has no such
+      conditions.  To do so, e must clearly and unambiguously identify
+      the promise and SHOULD publish its text.
+
+      When a promise is cashed, the text of the promise is interpreted
+      as if it were published by its author as a standalone statement;
+      if that statement requires additional context, that context MUST
+      be supplied within the body of the message indicating the
+      cashing.  Cashing a promise destroys it, unless the promise has
+      at least one condition required to be true for it not to be
+      destroyed when cashed, and all such conditions are true.
+
+      If a promise is possessed by the Tree, any player except the
+      promise's author CAN transfer it to emself by announcement, if e
+      cashes the promise in the same message in which e transfers it
+      to emself.
+
+      Horton CAN destroy any promise Without Objection.

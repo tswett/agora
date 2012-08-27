@@ -1,0 +1,17 @@
+Rule 2130/13 (Power=2)
+Activity
+
+      Activity is a player switch with values Active (default) and
+      Inactive, tracked by the Registrar.  The Registrar's report
+      includes the date on which each non-Active player's activity
+      last changed.  Changes to Activity are Secured.
+
+      A player CAN flip eir activity by announcement.  "To go on hold"
+      is to become Inactive; "to come off hold" is to become Active.
+
+      A player CAN flip another player's activity to Inactive without
+      objection.
+
+      A player who has been continuously Inactive for at least three
+      months CAN be deregistered by any other player without
+      objection.  This is a passive method of deregistration.

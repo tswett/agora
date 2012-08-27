@@ -1,0 +1,46 @@
+Rule 1367/16 (Power=3)
+Degrees
+
+      Certain patent titles are known as degrees.  The degrees are
+
+      - Associate of Nomic                 (A.N.)
+      - Bachelor of Nomic                  (B.N.)
+      - Master of Nomic                    (M.N.)
+      - Doctor of Nomic History            (D.N.Hist.)
+      - Doctor of Nomic Science            (D.N.Sci.)
+      - Doctor of Nomic Philosophy         (D.N.Phil.)
+
+      Degrees are ranked in the order they appear in this rule, with
+      degrees listed later being ranked higher.
+
+      A degree CANNOT be awarded to any person more than once, and
+      CANNOT be revoked once awarded.
+
+      After a player publishes a suitable thesis with explicit intent
+      to qualify for a degree (the specific degree need not be
+      mentioned), the Herald SHALL, as soon as possible, initiate an
+      Agoran Decision to award that player (the author) a degree as
+      follows:
+
+       - The available options are FAILING GRADE and each degree that
+         the author does not have. The available options can change
+         during the voting period.
+
+       - The eligible voters are each active player at the time the
+         decision is initiated.
+
+       - Each player's voting limit on the decision is one plus the
+         number of degrees e holds.
+
+       - The specific thesis for which the degree is to be awarded is
+         an essential parameter of the decision (but not the text of
+         that thesis).
+
+       - The outcome is, rules to the contrary notwithstanding, the
+         highest-ranked degree such that more than half the votes cast
+         were for that degree or a higher degree, or FAILING GRADE if
+         there was no such degree.
+
+      When the Herald resolves the decision, e CAN and SHALL award the
+      author the degree selected by Agora, or no degree if FAILING
+      GRADE was the outcome.

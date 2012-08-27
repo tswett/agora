@@ -1,0 +1,49 @@
+Rule 2166/16 (Power=2)
+Assets
+
+      An asset is an entity defined as such by a rule or contest
+      (hereafter its backing document), and existing solely because
+      its backing document defines its existence.
+
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.  If
+      an asset's backing document restricts its ownership to a class
+      of entities, then that asset CANNOT be gained by or transferred
+      to an entity outside that class, and is transferred to the Lost
+      and Found Department if it is owned by an entity outside that
+      class.  If an asset is owned by the Lost and Found department
+      any player CAN transfer or destroy it without objection.
+
+      The Lost and Found department may own any asset, and have assets
+      transferred to and from it, regardless of the asset's backing
+      document or any Rule, Rules to the contrary notwithstanding.
+
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
+
+      An asset whose backing document is not a rule generally CAN be
+      created by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "gain" an asset is to
+      have it created in one's possession; to "award" an asset to an
+      entity is to create it in that entity's possession.
+
+      An asset generally CAN be destroyed by its owner by
+      announcement, and an asset owned by the Lost and Found
+      Department generally CAN be destroyed by its recordkeepor by
+      announcement, subject to modification by its backing document.
+      To "lose" (syn. "spend") an asset is to have it destroyed from
+      one's possession; to "revoke" an asset from an entity is to
+      destroy it from that entity's possession.
+
+      An asset generally CAN be transferred by its owner to another
+      entity by announcement, subject to modification by its backing
+      document.  A fixed asset is one defined as such by its backing
+      document, and CANNOT be transferred; any other asset is liquid.
+
+      A currency is a class of asset defined as such by its backing
+      document.  Instances of a currency with the same owner are
+      fungible.  The Minimum Unit Quantity (MUQ) of each currency is
+      one.

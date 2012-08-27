@@ -1,0 +1,23 @@
+Rule 955/18 (Power=3)
+Determining the Will of Agora
+
+      After an Agoran Decision's voting period ends, it has an outcome
+      (syn. "the <appropriate noun> chosen by Agora").
+
+      (a) If there is more than one available option, and the number
+          of distinct voters who submitted valid ballots is less than
+          quorum, then the outcome is FAILED QUORUM, regardless of the
+          remainder of this rule.  Otherwise, the decision achieved
+          quorum.
+
+      (b) If the decision has an adoption index, then if the strength
+          of FOR is greater than the strength of AGAINST, and the
+          ratio of the strength of FOR to the strength of AGAINST is
+          greater than or equal to the decision's adoption index (or
+          the strength of AGAINST is zero), then the outcome is
+          ADOPTED; otherwise, the outcome is REJECTED.
+
+      (c) Otherwise, the outcome is the option with the most votes.
+          In case of a tie, the vote collector SHALL select one of the
+          leaders as the outcome. If there are no options, the outcome
+          is null.
